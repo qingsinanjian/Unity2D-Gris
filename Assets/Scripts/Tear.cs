@@ -12,6 +12,7 @@ public class Tear : MonoBehaviour
     private float moveSpeed;
     private float rotateAngle;
     
+
     private void Start()
     {
         moveSpeed = 5;
